@@ -190,7 +190,7 @@ h1{
 
 }
 p{
-    color: rgb(23, 11, 90);
+    color: rgb(14, 5, 66);
     font-size: 17px;
     font-weight: 300;
     line-height: 22px;
@@ -205,7 +205,7 @@ p{
     flex: 60%;
     padding: 20px;
     padding-top: 30px;
-    
+    color: rgb(5, 5, 63);
     width: 60%;
 }
 .img{
@@ -229,7 +229,7 @@ p{
 }
 .button .cta:hover{
     color: rgb(36, 3, 73);
-    background-color: rgb(240, 222, 182);
+    background-color: rgb(241, 200, 112);
 }
 .aboutus{
     padding: 100px;
@@ -255,7 +255,7 @@ p{
     display: inline-block;
     padding: 10px 20px;
     color: rgb(15, 15, 100);
-    background-color: rgb(248, 121, 121);
+    background-color: rgb(231, 145, 145);
     
     font-size: 1rem;
     text-transform: uppercase;
@@ -289,7 +289,7 @@ h3{
     color: black;
 }
 .course-col:hover{
-    box-shadow:0 0 20px 0 px rgb(82, 252, 67);
+    box-shadow:0 0 20px 0 px rgb(141, 224, 133);
 }
 @media(max-width: 700px){
     .row{
@@ -329,4 +329,35 @@ p{
     margin: 5px 0;
     color: cornsilk;
 
+}
+.toto{
+    align-content: center;
+    padding: 20px;
+}
+.tolo-col{
+    flex: 50%;
+    padding: 5px;
+    
+}
+.tolo-col h1{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.update{
+    padding: 20px;
+    text-align: center;
+}
+.ope-col{
+    width: 40%;
+    padding: 20px;
+}
+.ope-col h3{
+    color: rgb(5, 5, 61);
+}
+.ope-col p{
+    color: rgb(6, 6, 66);
+}
+.ope-col h3{
+    text-align: center;
 }
