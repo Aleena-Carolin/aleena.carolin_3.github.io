@@ -182,7 +182,7 @@ nav img{
     margin: auto;
     text-align: center;
     padding-top: 50px;
-
+    color: rgb(2, 2, 46);
 }
 h1{
     font-size: 36px;
@@ -275,7 +275,7 @@ p{
 }
 .course-col{
     flex-basis: 31%;
-    background: rgb(125, 255, 74);
+    background: rgb(243, 242, 243);
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
